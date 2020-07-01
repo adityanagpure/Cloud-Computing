@@ -1,0 +1,71 @@
+1.What is Cloud Computing?
+
+Cloud Computing often referred to as “the cloud”, in simple terms means storing or accessing your data and programs over the internet rather than your own hard drive.
+There are tons of cloud providers out there to choose from. Let us take the most prominent ones.  
+
+Azure: It’s a cloud computing platform by Microsoft founded in 2010.
+AWS: Amazon Web Services is a cloud computing platform by Amazon in 2006.
+
+
+2.Type of cloud?
+
+Public Cloud
+Private Cloud
+Hybrid Cloud
+Public Cloud
+In a public cloud deployment mode, the services which are deployed are open for public use and generally public cloud services are free. Technically there maybe no difference between a public cloud and a private cloud, but the security parameters are very different, since the public cloud is accessible by anyone there is a more risk factor involved with the same.
+
+Private Cloud
+A private cloud is operated solely for a single organization, it can be done by the same organization or a third-party organization. But usually the costs are high when you are using your own cloud since the hardware would be updated periodically, security also has to be kept in check since new threats come up every day.
+
+Hybrid Cloud
+A hybrid cloud consists the functionalities of both private and public cloud. How?
+
+Let’s understand it through an example: Suppose there is a research company, so they would have some published data and also, data which would still be in research phase. Now any thing which is still in research should be kept confidential right? Though your cloud provider may have state of the art security features but then it is still open to public, therefore prone to cyber attacks.
+
+So to address this risk, you can keep the data still being worked on, in your company’s servers whose access is controlled by the company, and your published data on the public platform, this type of arrangement would be a hybrid cloud.
+
+I think by now you must have a fair idea about what is cloud computing. Let’s go ahead and know the target audience of the cloud, that is YOU,  now you can either be looking at the cloud as an individual or a business, let’s take an insight into both the perspectives.
+
+
+3.Advantages does Cloud Computing serve:
+
+Fast Implementation
+If you’ve been there for a development or implementation of an application, it takes sometimes months or even years to make the application up and running, with cloud you can cut through the time and make things faster.
+Instant Scalability
+With cloud resources you can always scale up or scale down the no. of resources and users according to your need, the cloud capacity never runs out!
+Access Anywhere
+Applications built on cloud are designed to be accessed from anywhere, you just need an internet connection on a mobile device.
+No Upfront Costs
+Earlier to deploy an application you had to purchase the necessary hardware, build the architecture, purchase software licenses etc, but with cloud all those costs are dramatically reduced and in some cases eliminated.
+Maintenance Free
+Traditionally you would have to patch your software with the latest releases, upgrade your hardware and also troubleshoot faults in your system at the hardware level, but with cloud you don’t have to worry about the maintenance of your hardware, it will all be managed by your cloud provider.
+Better Security
+
+4.What is EC2?
+
+Amazon EC2 (Elastic Compute Cloud), one of Amazon Web Services’ most well-known services, offers businesses the ability to run applications on the public cloud. Developers can create instances of virtual machines and easily configure the capacity scaling of instances using the EC2 web interface.
+
+EC2 also allows users to build apps to automate scaling according to changing needs and peak periods, and makes it simple to deploy virtual servers and manage storage, lessening the need to invest in hardware and helping streamline development processes.
+An Independent study found that yearly a medium scale company loses around 260 laptops, this is a loss to the company not in monetary terms, but the data that was there on the laptop is valuable, with Cloud you don’t have to worry about that, all your data is stored in a centralized secure location.
+
+5.Physical VS Virtual Machine?
+
+Physical Servers	    		  	Virtual Machines
+
+Large upfront costs     			Small upfront costs
+
+No need for licensing purchase	  	VM software licenses
+
+Physical servers and additional equipment                A single physical server can host multiple VMs, 
+take a lot of space				thus saving space
+			
+Has a short life-cycle			Supports legacy applications
+
+No on-demand scalability			On-demand scalability
+
+Difficult to move or copy	  		Easy to move or copy
+
+Doesn’t require any overhead layer		Some level of overhead is required for running VMs
+
+
